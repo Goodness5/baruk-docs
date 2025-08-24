@@ -1,4 +1,4 @@
-# 🌌 Baruk AI: AI-Powered DeFi on Sei Network
+# Baruk AI: AI-Powered DeFi on Sei Network
 
 ![Baruk AI Logo](logo.png)  
 **Simplifying DeFi with AI-driven automation and Web2-like ease.**

@@ -21,3 +21,8 @@ Welcome to the technical documentation for **Baruk AI**, an AI-powered DeFi prot
 
 ## 🤖 AI & Trading
 - [AI Agent Overview](AI-agent/SUMMARY.md)
+
+
+## 📚 Reference
+- [TypeScript Types](types.md)
+- [FAQ](faq.md)

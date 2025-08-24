@@ -52,7 +52,7 @@ function depositAndBorrow(
     // Check collateralization ratio
     require(collateralValue >= borrowValue * COLLATERALIZATION_RATIO / 100, "Insufficient collateral");
     
-    // ... rest of logic
+    
 }
 ```
 

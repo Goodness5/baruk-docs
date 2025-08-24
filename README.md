@@ -38,25 +38,7 @@ At its core, Baruk AI is a trading protocol on Sei's fast and scalable network, 
 
 Baruk bridges the gap between Web2 usability and Web3 innovation. By combining AI automation, robust security, and a user-friendly interface, we're redefining DeFi on Sei. Whether you're a newbie or a pro, Baruk empowers you to engage with decentralized finance confidently, with an AI that’s got your back.
 
----
 
-## 📖 Documentation
-
-Explore our comprehensive technical documentation to learn more about Baruk AI's architecture, features, and development process:
-
-- [📚 Full Documentation](SUMMARY.md)  
-- [🚀 Getting Started](overview.md)  
-- [🤖 AI & Trading](ai-trading.md)  
-- [🔗 DeFi Protocols](baruk-protocol.md)  
-- [🔐 Security](security.md)
-
----
-
-## 🚀 Get Involved
-
-- **Developers**: Check out our [Development Setup](development.md) and [API Reference](api-reference.md).  
-- **Users**: Stay tuned for our public release on the Sei Network!  
-- **Feedback**: Join the conversation on [X](https://x.com) or reach out via our community channels.
 
 ---
 
